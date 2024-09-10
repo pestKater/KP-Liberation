@@ -1,5 +1,3 @@
-![KP Liberation](https://www.killahpotatoes.de/images/arma/liberation.png)
-
 # KP Liberation for Arma 3 Kurwa Edit
 
 This mission is only a continued project based on the original, but most likely abandoned, mission from [GreuhZbug](https://github.com/GreuhZbug).
