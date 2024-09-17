@@ -477,6 +477,11 @@ GRLIB_arsenal_magazines = [
 	"CUP_lmg_UK59",
 	"CUP_smg_UZI",
 	"CUP_smg_saiga9",
+	"CUP_PG7V_M",
+	"CUP_PG7VL_M",
+	"CUP_PG7VM_M",
+	"CUP_PG7VR_M",
+	"CUP_TBG7V_M",
 
 	// CUP Granaten
 	"CUP_IlumFlareGreen_GP25_M",
@@ -1335,6 +1340,7 @@ GRLIB_arsenal_items = [
 	"I_E_UavTerminal",
 	"I_UavTerminal",
 	"ItemCompass",
+	"ItemMap",
 	"ItemWatch",
 	"O_UavTerminal",
 	"ToolKit",
@@ -1492,6 +1498,23 @@ GRLIB_arsenal_items = [
 
 GRLIB_arsenal_backpacks = [
     
+	// CUP Backpacks
+	"CUP_B_AlicePack_Khaki",
+	"CUP_B_AlicePack_OD",
+	"CUP_B_AlicePack_Bedroll",
+	"CUP_B_RPGPack_Khaki",
+	"CUP_B_CivPack_WDL",
+	"CUP_B_RUS_Backpack",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Green",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Khaki",
+	"CUP_B_Raid_bag_SSO_Ataka_2_ModernOlive",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Swamp",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Green",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Khaki",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_ModernOlive",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Swamp",
+	"CUP_T10_Parachute_backpack",
+
     // Vanilla Standard Backpacks
     "B_AssaultPack_blk",
 	"B_AssaultPack_cbr",
