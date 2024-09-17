@@ -279,12 +279,16 @@ GRLIB_arsenal_weapons = [
     // ACE Pistols
     "ACE_Flashlight_Maglite_ML300L",
     "ACE_VMH3",
-    "ACE_VMM3",
+    "ACE_VMM3"
 ];
 
 GRLIB_arsenal_magazines = [
 
 	// CUP Ammo
+	"CUP_8Rnd_9x18_Makarov_M",
+	"CUP_8Rnd_9x18_MakarovSD_M",
+	"CUP_12Rnd_9x18_PMM_M",
+	"CUP_8Rnd_762x25_TT",
 	"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M",
 	"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Red_M",
 	"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Yellow_M",
@@ -477,6 +481,12 @@ GRLIB_arsenal_magazines = [
 	"CUP_lmg_UK59",
 	"CUP_smg_UZI",
 	"CUP_smg_saiga9",
+	"CUP_PG7V_M",
+	"CUP_PG7VL_M",
+	"CUP_PG7VM_M",
+	"CUP_PG7VR_M",
+	"CUP_TBG7V_M",
+	"CUP_OG7_M",
 
 	// CUP Granaten
 	"CUP_IlumFlareGreen_GP25_M",
@@ -572,7 +582,7 @@ GRLIB_arsenal_magazines = [
 	"ACE_M84",
 
 	// ACE Explosives
-	"ACE_FlareTripMine_Mag",
+	"ACE_FlareTripMine_Mag"
 ];
 
 GRLIB_arsenal_items = [
@@ -875,6 +885,23 @@ GRLIB_arsenal_items = [
 	"CUP_V_RUS_Smersh_New_Light_Spectre",
 	"CUP_V_RUS_Smersh_New_Radio",
 	"CUP_V_RUS_Smersh_New_Radio_Spectre",
+
+	// CUP Backpacks
+	"CUP_B_AlicePack_Khaki",
+	"CUP_B_AlicePack_OD",
+	"CUP_B_AlicePack_Bedroll",
+	"CUP_B_RPGPack_Khaki",
+	"CUP_B_CivPack_WDL",
+	"CUP_B_RUS_Backpack",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Green",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Khaki",
+	"CUP_B_Raid_bag_SSO_Ataka_2_ModernOlive",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Swamp",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Green",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Khaki",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_ModernOlive",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Swamp",
+	"CUP_T10_Parachute_backpack",
 
 	// CUP Glasses
 	"CUP_Beard_Black",
@@ -1318,6 +1345,7 @@ GRLIB_arsenal_items = [
 	"I_E_UavTerminal",
 	"I_UavTerminal",
 	"ItemCompass",
+	"ItemMap",
 	"ItemWatch",
 	"O_UavTerminal",
 	"ToolKit",
@@ -1475,6 +1503,24 @@ GRLIB_arsenal_items = [
 
 GRLIB_arsenal_backpacks = [
     
+	// CUP Backpacks
+	"CUP_B_AlicePack_Khaki",
+	"CUP_B_AlicePack_OD",
+	"CUP_B_AlicePack_Bedroll",
+	"CUP_B_RPGPack_Khaki",
+	"CUP_B_CivPack_WDL",
+	"CUP_B_RUS_Backpack",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Green",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Khaki",
+	"CUP_B_Raid_bag_SSO_Ataka_2_ModernOlive",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Swamp",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Green",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Khaki",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_ModernOlive",
+	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Swamp",
+	"CUP_T10_Parachute_backpack",
+	"CUP_B_RUS_Patrol_bag_Winter",
+
     // Vanilla Standard Backpacks
     "B_AssaultPack_blk",
 	"B_AssaultPack_cbr",
