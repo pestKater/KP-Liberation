@@ -82,21 +82,24 @@ light_vehicles = [
 ];
 
 heavy_vehicles = [
-    ["CUP_O_BRDM2_CHDKZ",200,200,150],                                  // BRDM-2
-    ["CUP_O_BRDM2_ATGM_CHDKZ",200,400,150],                             // BRDM-2 (ATGM)
-    ["CUP_O_BTR60_CHDKZ",300,200,200],                                  // BTR-60PB
-    ["CUP_O_BTR80_CHDKZ",400,300,200],                                  // BTR-80
-    ["CUP_O_BTR80A_CHDKZ",425,500,200],                                 // BTR-80A
-    ["CUP_O_MTLB_pk_CHDKZ",175,50,100],                                 // MT-LB LV
-    ["CUP_O_BMP2_CHDKZ",500,600,200],                                   // BMP-2
-    ["CUP_O_ZSU23_Afghan_CHDKZ",350,500,200],                           // ZSU-23-4 Afghanski
-    ["CUP_O_ZSU23_CHDKZ",500,500,200],                                  // ZSU-23-4
-    ["CUP_O_T55_CHDKZ",500,350,250],                                    // T-55
-    ["CUP_O_T72_CHDKZ",700,500,300]                                     // T-72
+    ["CUP_O_BRDM2_CHDKZ", 400, 400, 300],                                  // BRDM-2
+    ["CUP_O_BRDM2_ATGM_CHDKZ", 400, 800, 300],                             // BRDM-2 (ATGM)
+    ["CUP_O_BTR60_CHDKZ", 600, 400, 400],                                  // BTR-60PB
+    ["CUP_O_BTR80_CHDKZ", 800, 600, 400],                                  // BTR-80
+    ["CUP_O_BTR80A_CHDKZ", 850, 1000, 400],                                // BTR-80A
+    ["CUP_O_MTLB_pk_CHDKZ", 350, 100, 200],                                // MT-LB LV
+    ["CUP_O_BMP2_CHDKZ", 1000, 1200, 400],                                 // BMP-2
+    ["CUP_O_ZSU23_Afghan_CHDKZ", 700, 1000, 400],                          // ZSU-23-4 Afghanski
+    ["CUP_O_ZSU23_CHDKZ", 1000, 1000, 400],                                // ZSU-23-4
+    ["CUP_O_T55_CHDKZ", 1000, 700, 500],                                   // T-55
+    ["CUP_O_T72_CHDKZ", 1400, 1000, 600]                                   // T-72
 ];
 
 air_vehicles = [
-    ["CUP_O_Mi8_CHDKZ",400,100,400]                                     // Mi-8MT
+    ["CUP_O_Mi8_CHDKZ",800,50,500],                                      // Mi-8MT
+    ["CUP_B_CESSNA_T41_ARMED_USA",400,600,400],                          // Badass Cessna
+    ["CUP_B_AC47_Spooky_USA",950,1000,800],                               // DC3 des Todes (The Superperforator)
+    ["CUP_B_Su25_Dyn_CDF",1200,1500,1000]                                   // Froschfuß
 ];
 
 static_vehicles = [
@@ -105,7 +108,7 @@ static_vehicles = [
     ["CUP_O_AGS_ChDKZ",25,60,0],                                        // AGS-30
     ["CUP_O_SPG9_ChDKZ",50,100,0],                                      // SPG-9
     ["CUP_O_Igla_AA_pod_ChDKZ",100,200,0],                              // Igla AA Pod
-    ["CUP_O_ZU23_ChDKZ",100,300,0],                                     // ZU-23
+    ["CUP_O_ZU23_ChDKZ",300,500,0],                                     // ZU-23
     ["CUP_O_2b14_82mm_ChDKZ",80,150,0],                                 // Podnos 2B14
     ["CUP_O_D30_AT_ChDKZ",100,200,0],                                   // D-30 AT
     ["CUP_O_D30_ChDKZ",200,250,0]                                       // D-30
@@ -195,9 +198,9 @@ support_vehicles = [
     [KP_liberation_small_storage_building,0,0,0],
     [KP_liberation_large_storage_building,0,0,0],
     [KP_liberation_recycle_building,250,0,0],
-    [KP_liberation_air_vehicle_building,1000,0,0],
-    [KP_liberation_heli_slot_building,250,0,0],
-    [KP_liberation_plane_slot_building,500,0,0],
+    [KP_liberation_air_vehicle_building,2000,0,0],
+    [KP_liberation_heli_slot_building,500,0,0],
+    [KP_liberation_plane_slot_building,1000,0,0],
     ["ACE_medicalSupplyCrate_advanced",50,0,0],
     ["ACE_Box_82mm_Mo_HE",50,40,0],
     ["ACE_Box_82mm_Mo_Smoke",50,10,0],
