@@ -285,6 +285,10 @@ GRLIB_arsenal_weapons = [
 GRLIB_arsenal_magazines = [
 
 	// CUP Ammo
+	"CUP_8Rnd_9x18_Makarov_M",
+	"CUP_8Rnd_9x18_MakarovSD_M",
+	"CUP_12Rnd_9x18_PMM_M",
+	"CUP_8Rnd_762x25_TT",
 	"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M",
 	"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Red_M",
 	"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Yellow_M",
@@ -482,6 +486,7 @@ GRLIB_arsenal_magazines = [
 	"CUP_PG7VM_M",
 	"CUP_PG7VR_M",
 	"CUP_TBG7V_M",
+	"CUP_OG7_M",
 
 	// CUP Granaten
 	"CUP_IlumFlareGreen_GP25_M",
@@ -1514,6 +1519,7 @@ GRLIB_arsenal_backpacks = [
 	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_ModernOlive",
 	"CUP_B_Raid_bag_SSO_Ataka_2_Rug_Swamp",
 	"CUP_T10_Parachute_backpack",
+	"CUP_B_RUS_Patrol_bag_Winter",
 
     // Vanilla Standard Backpacks
     "B_AssaultPack_blk",
