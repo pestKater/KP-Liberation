@@ -185,6 +185,7 @@ GRLIB_arsenal_weapons = [
 	"CUP_arifle_Sa58_Klec_ris",
 	"CUP_arifle_Sa58s",
 	"CUP_arifle_Sa58s_rearris",
+	"CUP_glaunch_M79",
 	"CUP_lmg_MG3",
 	"CUP_lmg_PKM",
 	"CUP_lmg_PKMN",
@@ -454,6 +455,7 @@ GRLIB_arsenal_magazines = [
 	"CUP_50Rnd_556x45_Red_Tracer_Galil_Mag",
 	"CUP_5Rnd_127x108_KSVK_M",
 	"CUP_5Rnd_762x51_M24",
+	"CUP_5Rnd_762x54_Mosin_M",
 	"CUP_5Rnd_B_Saiga12_Buck_0",
 	"CUP_5Rnd_B_Saiga12_Buck_00",
 	"CUP_5Rnd_B_Saiga12_Buck_1",
@@ -528,6 +530,7 @@ GRLIB_arsenal_magazines = [
 	"hgun_Pistol_heavy_02_F",
 	"75Rnd_762x39_Mag_F",
 	"75Rnd_762x39_Mag_Tracer_F",
+	"Laserbatteries",
 
 	// Vanilla Grenades
 	"Chemlight_blue",
@@ -578,6 +581,7 @@ GRLIB_arsenal_magazines = [
 	"ACE_HandFlare_Red",
 	"ACE_HandFlare_White",
 	"ACE_HandFlare_Yellow",
+	"ACE_HuntIR_M203",
 	"ACE_M14",
 	"ACE_M84",
 
@@ -1006,6 +1010,7 @@ GRLIB_arsenal_items = [
 	"CUP_optic_PSO_1_1_open",
 	"CUP_optic_PSO_3",
 	"CUP_optic_PSO_3_open",
+	"CUP_optic_Remington",
 
 	// CUP Accessories
 	"CUP_acc_Flashlight",
